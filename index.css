@@ -1,5 +1,7 @@
 .helloWorld {
     background-color: salmon;
     border: 2px solid gray;
-    font-weight: bold;
+}
+p{
+    font-family: sans-serif;
 }
